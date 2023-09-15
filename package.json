@@ -5,8 +5,3 @@
     "node-telegram-bot-api": "^0.63.0"
   }
 }
-{
-  "scripts": {
-    "build": "node index"
-  }
-}
